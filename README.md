@@ -28,7 +28,7 @@
 - 💼 Business Analytics
 - 📄 Descriptive Analytics
 - 🔧 APIs and Database
-- 🤖 AI Integration using Streamlit 
+- 🤖 AI Integration and AI Agents with Streamlit 
 
 ## 🛠 &nbsp;Tech Stack
 ![Alt text](<https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white>) ![Alt text](<https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white>) ![Alt text](<https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>) ![Alt text](<https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white>) ![Alt text](<https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white>) 
