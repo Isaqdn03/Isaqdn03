@@ -34,6 +34,30 @@
 ![Alt text](<https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white>) ![Alt text](<https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white>) ![Alt text](<https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>) ![Alt text](<https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white>) ![Alt text](<https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white>) ![Alt text](<https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white>) 
 
 
+## 🌟 Featured Project
+
+### [TripleTen Data Analysis Portfolio](https://github.com/Isaqdn03/TripleTen-Data-Analysis-Projects)
+<div align="center">
+  <a href="https://github.com/Isaqdn03/TripleTen-Data-Analysis-Projects">
+    <img src="https://img.shields.io/badge/View_Project_Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio">
+  </a>
+</div>
+
+**🎯 14 Industry-Standard Data Analysis Projects** showcasing my journey from foundational analytics to advanced machine learning
+
+#### 🚀 Highlights:
+- **📊 Market Analysis**: Video game trends, LA restaurant market entry, telecommunications plans
+- **🧪 A/B Testing**: Conversion optimization, hypothesis prioritization, recommender systems  
+- **🤖 Machine Learning**: Customer churn prediction, RFM segmentation, behavioral analytics
+- **📈 Business Intelligence**: Marketing ROI analysis, cohort analysis, KPI development
+- **🌐 Web Applications**: Interactive Streamlit dashboards deployed to production
+
+#### 💡 Technologies Applied:
+`Python` `SQL` `Statistical Testing` `Machine Learning` `Tableau` `Streamlit` `A/B Testing` `Customer Analytics`
+
+> **Check out the complete portfolio to see how I transform data into actionable business insights!**
+
+
 ## 📊 Profile Statistics
 </div>
  
